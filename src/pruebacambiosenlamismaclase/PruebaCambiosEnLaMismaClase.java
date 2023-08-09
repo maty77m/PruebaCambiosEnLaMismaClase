@@ -19,6 +19,10 @@ public class PruebaCambiosEnLaMismaClase {
         //Cambios de Maty
         System.out.println("Hola, soy Maty");  
         int numero = 100;
+        //Cambios nuevos de Maty
+        System.out.println("Hola, soy un cambio nuevo");
+        String cambio ="cambio";
+        
     
     
         //Cambios de Mauro
