@@ -20,8 +20,8 @@ public class PruebaCambiosEnLaMismaClase {
         System.out.println("Hola, soy Maty");  
         int numero = 100;
         //Cambios nuevos de Maty
-        System.out.println("Hola, soy un cambio nuevo");
-        String cambio ="cambio";
+        System.out.println("Hola, soy un cambio viejo");
+        String cambio ="cambio numero 2";
         
     
     
