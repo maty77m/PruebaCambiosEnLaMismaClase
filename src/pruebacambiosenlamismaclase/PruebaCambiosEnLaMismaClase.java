@@ -24,6 +24,10 @@ public class PruebaCambiosEnLaMismaClase {
         //Cambios de Mauro
         System.out.println("Hola");
         System.out.println("Hello");
+        
+        
+        //cambio cintia
+        System.out.println("prueba de error");
 
     }
     
