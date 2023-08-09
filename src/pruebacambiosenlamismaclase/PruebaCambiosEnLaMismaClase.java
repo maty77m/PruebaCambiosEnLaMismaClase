@@ -21,8 +21,13 @@ public class PruebaCambiosEnLaMismaClase {
         int numero = 100;
         
         //Cambios nuevos de Maty
+
         System.out.println("Hola, soy un cambio nuevo, error 2.0");
         String cambio ="cambio";
+
+        System.out.println("Hola, soy un cambio viejo");
+        String cambioss ="cambio numero 2";
+
         
     
     
